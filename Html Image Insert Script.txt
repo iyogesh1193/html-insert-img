@@ -1,0 +1,10 @@
+<html>
+  <head>
+     <title> Image in HTML</title>
+    </head>
+    <body>
+
+      <img scr="Myphoto.jpg"/>
+
+     </body>
+     </html>
